@@ -1,0 +1,11 @@
+2019-12-07 17:05:03.439  INFO 124184 --- [restartedMain] c.e.s.ShoppingMallApplication            : Starting ShoppingMallApplication on DESKTOP-QI4508G with PID 124184 (D:\shopping-mall\target\classes started by ASUS in D:\shopping-mall)
+2019-12-07 17:05:03.446  INFO 124184 --- [restartedMain] c.e.s.ShoppingMallApplication            : The following profiles are active: pro
+2019-12-07 17:05:05.918  WARN 124184 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-12-07 17:05:06.909  WARN 124184 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-12-07 17:05:07.247  WARN 124184 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-12-07 17:05:07.524  INFO 124184 --- [restartedMain] c.e.s.ShoppingMallApplication            : Started ShoppingMallApplication in 4.955 seconds (JVM running for 6.749)
+2019-12-07 17:09:57.810  INFO 123924 --- [restartedMain] c.e.s.ShoppingMallApplication            : Starting ShoppingMallApplication on DESKTOP-QI4508G with PID 123924 (D:\shopping-mall\target\classes started by ASUS in D:\shopping-mall)
+2019-12-07 17:09:57.813  INFO 123924 --- [restartedMain] c.e.s.ShoppingMallApplication            : The following profiles are active: pro
+2019-12-07 17:10:00.628  WARN 123924 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-12-07 17:10:01.538  WARN 123924 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-12-07 17:10:02.200  INFO 123924 --- [restartedMain] c.e.s.ShoppingMallApplication            : Started ShoppingMallApplication in 5.213 seconds (JVM running for 6.849)
